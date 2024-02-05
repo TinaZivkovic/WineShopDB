@@ -10,3 +10,5 @@ The project requierments were as follows:
 
 I have uploaded the full code with comments of the working and thought process, with all the mistakes and how they were resolved.
 
+We had to make the project as a part of a team. We had weekly meetings where we divided the work as to who will be making which databases, and on the next meeting I would put everything inyo my SQL Workbench.<br>
+We worked out the issues as we went along. 
